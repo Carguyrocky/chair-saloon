@@ -1,0 +1,9 @@
+.item_root {
+  display: flex;
+  .item_image {
+    img {
+      width: 5rem;
+      height: 5rem;
+    }
+  }
+}
